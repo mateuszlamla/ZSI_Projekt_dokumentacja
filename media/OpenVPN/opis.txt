@@ -1,0 +1,1 @@
+OpenVPN jest szyfrowany, można przekierować cały ruch lub tylko wybrane trasy, korzystanie z loginu i hasla oraz certyfikatów
